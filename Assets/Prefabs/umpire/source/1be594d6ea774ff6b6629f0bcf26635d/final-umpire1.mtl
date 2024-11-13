@@ -1,0 +1,58 @@
+# Wavefront MTL
+# Created by fragMOTION 1.3.2
+# http://www.fragmosoft.com
+
+newmtl material_2
+illum 2
+d 1
+ka 0.8 0.8 0.8
+kd 0.8 0.8 0.8
+ks 1 1 1
+ke 0 0 0
+ns 0
+map_kd brown_eye.png
+newmtl material_0
+illum 2
+d 1
+ka 0.392157 0.392157 0.392157
+kd 0.392157 0.392157 0.392157
+ks 1 1 1
+ke 0 0 0
+ns 0
+map_kd old_lightskinned_male_diffuse.png
+newmtl material_4
+illum 2
+d 1
+ka 0.8 0.8 0.8
+kd 0.8 0.8 0.8
+ks 1 1 1
+ke 0 0 0
+ns 0
+map_kd shoes02_diffuse.png
+newmtl material_1
+illum 2
+d 1
+ka 0.8 0.8 0.8
+kd 0.8 0.8 0.8
+ks 1 1 1
+ke 0 0 0
+ns 0
+map_kd short04_diffuse.png
+newmtl material_5
+illum 2
+d 1
+ka 0.8 0.8 0.8
+kd 0.8 0.8 0.8
+ks 1 1 1
+ke 0 0 0
+ns 0
+map_kd male_casualsuit03_diffuse.png
+newmtl material_3
+illum 2
+d 1
+ka 0.8 0.8 0.8
+kd 0.8 0.8 0.8
+ks 1 1 1
+ke 0 0 0
+ns 0
+map_kd eyebrow002.png
